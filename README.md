@@ -1,5 +1,13 @@
 <!-- Huong Mai -->
+<h1 align="center">Hi 👋, I'm Mai Thanh Hương</h1>
+<h3 align="center">A Student From Hanoi University of Science and Technology</h3>
+<img align="right" alt="Coding" width="180" src="giphy.webp">
 
+- 🌱 I’m currently learning **IT-E6**
+
+- 📫 How to reach me **maithanhhuong2207@gmail.com**
+  <br><br>
+  <br><br>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
