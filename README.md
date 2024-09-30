@@ -26,32 +26,10 @@
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-  <a href="#" title="Huongdev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaiThanhHuong&hide=c%23,m,powershell,Mathematica,Ruby,Jav,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="MaiThanhHuong" />
-  </a>
-  <a href="#" title="Huongdev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=MaiThanhHuong&show_icons=true&theme=react&border_color=61dafb&hide_border=true#gh-dark-mode-only" alt="MaiThanhHuong" />
-  </a>
-</div>
 
-<br>
-<h2 align="center">👽 How to reach me 👽</h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
-  
-  <a href="https://www.facebook.com/huong.maithanh94227/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="MaiThanhHuong-facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/huongmaithanh/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="MaiThanhHuong-linkedin" />
-  </a>
-  <a href="https://www.instagram.com/huongggmeiii22/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="MaiThanhHuong-instagram" />
-  </a>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=MaiThanhHuong&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MaiThanhHuong&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiThanhHuong&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <picture>
